@@ -21,3 +21,4 @@ def editdata(file,sheetname,row,col,valu):
     sheet=workbook.get_sheet_by_name(sheetname)
     sheet.cell(row,col).value=valu
     workbook.save(file)
+

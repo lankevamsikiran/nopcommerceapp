@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="81571e7d-46c2-4bc8-9622-957de23e6f11" name="Default Changelist" comment="" />
+    <list default="true" id="81571e7d-46c2-4bc8-9622-957de23e6f11" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/calculator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XLutils.py" beforeDir="false" afterPath="$PROJECT_DIR$/XLutils.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,7 +34,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.vamsi">
+  <component name="RunManager" selected="Python.calculator (1)">
     <configuration name="XLutils (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="nopcommerceApp" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -73,7 +77,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="XLutils" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="calculator (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="nopcommerceApp" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -85,7 +89,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="F:\pycharm practice\nopcommerceApp\XLutils.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/calculator.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -94,7 +98,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="consecutive" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="calculator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="nopcommerceApp" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -106,7 +110,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/consecutive.py" />
+      <option name="SCRIPT_NAME" value="F:\pycharm practice\nopcommerceApp\calculator.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -196,20 +200,20 @@
     </configuration>
     <list>
       <item itemvalue="Python.main" />
-      <item itemvalue="Python.consecutive" />
       <item itemvalue="Python.datadriven" />
-      <item itemvalue="Python.XLutils" />
       <item itemvalue="Python tests.pytest in bin" />
       <item itemvalue="Python.XLutils (1)" />
       <item itemvalue="Python.vamsi" />
+      <item itemvalue="Python.calculator" />
+      <item itemvalue="Python.calculator (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.calculator (1)" />
+        <item itemvalue="Python.calculator" />
         <item itemvalue="Python.vamsi" />
         <item itemvalue="Python.datadriven" />
         <item itemvalue="Python.XLutils (1)" />
-        <item itemvalue="Python.XLutils" />
-        <item itemvalue="Python.consecutive" />
       </list>
     </recent_temporary>
   </component>
