@@ -1,0 +1,80 @@
+
+1) initiating the browser
+
+# Chrome
+from selenium import webdriver
+from selenium.webdriver.common.keys import Keys
+driver=webdriver.Chrome(executable_path="F:\pysel\chromedriver")
+driver.get("https://www.facebook.com/")
+driver.find_element_by_xpath("//button[@name='login']").click()
+print(driver.title)
+driver.close()
+
+2)  Xpath:
+
+xpath in selenium is a xml path used for navigation through the HTML structure of the page.
+It is a syntax or language for finding any element on a web page using XML path expression.
+
+
+ there are 2 types of xpath
+ 1 . Absolute path
+ 2 . Relative path
+
+ Absolute path: it is direct way to find an element in th web page.
+ but disadvantage of absolute path is that if any changes made in path of element then that xpath gets failed.
+ *  key charactestic of xpath is that it begins with single forward slash(/),
+    which means you can select the element from the root node .
+
+  Relative path:  it starts from middle of the HTMLLL dom structuure. it starts with double slash (//).
+  it can search elements anywhere on the webpage ,
+  menas no need to write a long xpath and you can start from middle of HTML Dom structure .
+  Relative xpath is always preferred as it is not complete path from root node.
+
+
+3)  Navigation commands:
+  *  get
+  *  navigate
+  *  back
+  *  forward
+
+4)  Conditional commands:
+
+  *  is_displayed()
+  *  is_enabled()
+  *  is_selected()
+
+
+5) is_selected():  is for radio button and checkbox weather they are selected or not.
+
+6) working with dropdown :
+
+from selenium.webdriver.suport.ui import Select
+
+driver=webdriver.chrome()
+driver.get()
+
+element=driver.find_element_by_id()
+drp=Sellect(element)
+
+
+## there are 3 ways to get value from dropdown
+
+drp.select_by_visible_text(" ")
+drp.sellect_by_index(2)
+drp.select_by_value(" ")
+
+
+print(len(drp.options))
+
+fot option in drp.options:
+    print(option.text)
+
+
+    
+
+
+
+
+
+
+

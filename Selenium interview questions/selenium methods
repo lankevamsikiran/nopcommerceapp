@@ -1,0 +1,12 @@
+
+1) driver.title   :  which returns title of the page
+
+2) driver.close() :  which close the active window of browser  ( Current focused browser )
+
+3) driver.quit() : closes all the windows which opened by program.
+
+4)driver.current_url  :  returns UURL of the page
+
+5) driver.page_source:  returns HTML codee for the page
+
+6)  is_selected()  :  is for radio button and checkbox weather they are selected or not.

@@ -1,5 +1,7 @@
 import XLutils
 
+
+
 path="F:/pycharm practice/nopcommerceApp/database/Book1.xlsx"
 
 print(XLutils.numrows(path,"vamsi"))
