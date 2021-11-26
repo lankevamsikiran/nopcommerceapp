@@ -1,6 +1,6 @@
 #1st Method
 
-st="kiran"
+st="kiran vamsi"
 rev=""
 
 for i in st:
