@@ -1,0 +1,59 @@
+1) data types supported in python
+
+Numbers
+strings
+boolian
+List
+tuple
+set
+dictionary
+
+2)  key points of memory alllocation & management in python
+
+* Memory in python managed by python private heap space.
+* all objects and data structures are located in private heap space. and this is taken care by interpreter itslef.
+* and programer doesn't have access to this private heap space.
+* garbage collector is the mechanism to used to clean the dead object.
+* Algorithm used in python for garbage collection is reference counting.
+
+3)  what is PASS:
+
+* pass statement is a Null operator. nothig happens when it executes.
+* this statement used if the program requires no action but requires syntactically.
+
+
+4)  Mutable and immutable:
+
+Mutable: which can be editable
+    list, set, dict
+Immutablle: which cannot be editable.
+    tuple,string
+
+5) shallow copy:
+
+it creates a new object from original object with its reference, so any changes made in values of new object will
+also reflect in old object.
+
+
+import copy
+
+l1=[1,2,3]
+l2=copy.copy(l1)
+
+l2[1]=6
+
+print(l1)
+print(l2)
+
+6) Deep copy:
+
+it creates new object from originall object without its reference , so if any changes made in new object
+ it will not effect old object
+
+ l1=[1,2,3]
+ l2=copy.deepcopy(l1)
+ l2[1]=6
+ print(l1)
+ print(l2)
+
+
