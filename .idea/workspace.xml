@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="81571e7d-46c2-4bc8-9622-957de23e6f11" name="Default Changelist" comment="adding python questions file">
-      <change afterPath="$PROJECT_DIR$/Python programs/multiple delimiters.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python programs/stoacks.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python programs/stoacks.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python programs/stoacks.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,7 +33,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.multiple delimiters">
+  <component name="RunManager" selected="Python.stoacks">
     <configuration name="decorators" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -181,15 +180,15 @@
       <item itemvalue="Python.main" />
       <item itemvalue="Python.decorators" />
       <item itemvalue="Python.delete" />
-      <item itemvalue="Python tests.pytest in bin" />
       <item itemvalue="Python.dele" />
       <item itemvalue="Python.stoacks" />
       <item itemvalue="Python.multiple delimiters" />
+      <item itemvalue="Python tests.pytest in bin" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.multiple delimiters" />
         <item itemvalue="Python.stoacks" />
+        <item itemvalue="Python.multiple delimiters" />
         <item itemvalue="Python.dele" />
         <item itemvalue="Python.decorators" />
         <item itemvalue="Python.delete" />
@@ -212,7 +211,14 @@
       <option name="project" value="LOCAL" />
       <updated>1637915057345</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="adding python questions file">
+      <created>1638012136302</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1638012136302</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

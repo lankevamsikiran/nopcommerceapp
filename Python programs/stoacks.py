@@ -1,3 +1,4 @@
+
 def solution(A):
     # write your code in Python 3.6
     profit = 0
@@ -17,7 +18,7 @@ def solution(A):
 
     return f"max profit {l} th day and {m}th day . Max profit is {Z}"
 
-A=[5, 4, 3, 2]
+A=[5, 1, 3, 2,90]
 print(solution(A))
 
 
