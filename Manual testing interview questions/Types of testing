@@ -1,0 +1,160 @@
+
+1) Functional Testing
+   smoke testing
+   sanity testing
+   regression testing
+   integration testing
+   UAT  (user acceptence testing)
+   Unit testing
+
+2 Non Functional testing
+   performance testing
+   security testing
+   usability testing
+
+
+Functional testing:
+   It tests ‘What’ the product does. It checks the operations and actions of an Application.
+   Functional testing is done based on the business requirement.
+   It tests whether the actual result is working according to the expected result.
+   It can carried out manually. Example: Black box testing method.
+   It tests as per the customer requirements.
+
+   Example: A Login page must show textboxes to Enter the username and password.
+
+
+Non Functional testing:
+   It checks the behaviour of an Application.
+   Non- functional testing is done based on the customer expectation and Performance requirement.
+   It checks the response time, and speed of the software under specific conditions.
+   It is more feasible to test using automated tools.Example: Loadrunner.
+   It is testing the performance of the functionality of the software.
+
+   Example: Test if a Login page is getting loaded in 5 seconds.
+
+
+Smoke Testing:
+
+   This type of testing is performed before the actual system testing to check if the -
+   critical functionalities are working fine in order to carry out further extensive testing.
+
+   This, in turn, saves time installing the new build again and avoids further testing if the -
+   critical functionalities fail to work. This is a generalized way of testing the application.
+
+
+Sanity Testing:
+
+   It is a type of testing where only a specific functionality or a bug which is fixed is tested to -
+   check whether the functionality is working fine and see if there are no other issues due to the -
+   changes in the related components. It is a specific way of testing the application.
+
+   Advantages of sanity testing:
+
+   Sanity testing helps in quickly identify defects in the core functionality.
+   It can be carried out in lesser time as no documentation is required for sanity testing.
+   If the defects are found during sanity testing, project is rejected that is helpful in saving-
+   time for execution of regression tests.
+
+
+Integration Testing:
+
+   Integration Testing is performed when two or more functions or components of the software are -
+   integrated to form a system. It basically checks the proper functioning of the software -
+   when the components are merged to work as a single unit.
+
+
+Regression Testing:
+
+   It is type of testing in which one will perform testing on the already tested functionality again and again.
+
+   Regression testing is carried out upon receiving the build of the software after fixing the bugs -
+   that were found in the initial round of testing. It verifies whether the bug is fixed and -
+   checks if the entire software is working fine with the changes.
+
+
+RETESTING:
+
+   It is type of testing in which one will perform testing on the same funcatnality again and again with
+   deferent sets of values, in order to confirm whether it is working fine or not.
+
+Note: Retesting starts from 1st build and continuous up to last build.
+Note: During Regression testing also Retesting will be conducted.
+
+
+ALPHA TESTING:
+
+   It is type of user acceptance testing conducted in the software company by the test engineers just before
+   delivering the application to the client.
+
+
+BETA TESTING:
+
+   It is also a type of user acceptance testing conducted in the client’s place either by the end users or third
+   party experts, just before actual implementation of the application.
+
+
+USABILITY TESTING:
+
+   It is a type of testing in which one will test the user friendliness of the application.
+
+
+
+COMPATABILITY TESTING:
+   It is a type of testing in which one will install the application into multiple environments, prepared with
+   different configurations, in order to check whether the application is suitable with those environments or not.
+   Usually these types of testing will focused in product based companies.
+
+
+MONKEY TESTING:
+
+   It is a type of testing in which one will perform abnormal actions on the application. Intentionally, in order
+   to check the stability of the application
+
+
+END TO END TESTING:
+   It is a type of testing in which one will perform testing on the end to end scenarios of the application.
+   EX: Login---> Balance Enquiry ---> Withdraw ----> Balance Enquiry ---> Logout.
+
+
+SECURITY TESTING:
+
+   It is a type of testing in which one will check whether the application is properly protected or not.
+   To do the same the BLACK BOX TEST Engineers will perform the following types of Testing:
+
+   1. AUTHENTICATION TESTING: In this type of testing one will enter different combination of user names and
+          passwords and check whether only the authorized people are able to access application or not.
+   2. DIRECT URL TESTING: In this type of testing one will directly enter the URL’s of secured pages, in order to
+          check whether the secured pages are directly access or not with out login to the application.
+   3. FIRE WALL LEAKEGE TESTING(or) USER PRIVILLAGES TESTING: It is a type of testing in which one will enter
+          in to the application as one level of user and will try to access beyond the user limits, in order to check
+          whether the fire walls are working properly or not.
+
+
+SOAK TESTING/REALIABILITY TESTING:
+
+   It is a type of testing in which one will use the application continuously for a long period of time, in order to
+   check the stability of the application.
+
+
+ADHOC TESTING:
+
+   It is a type of testing in which one will perform testing in their own style after understanding the
+   requirements clearly.
+
+   Note: Usually in the final stages of the project, This type of Testing can be encouraged
+
+
+PARALLEL TESTING:
+
+   It is also known as comparative testing and applicable to software products only. During this test, testing
+   team compare our application build with competitors products in the market.
+
+
+PERFORMANCE TESTING:
+
+   It is an advanced testing technique and expensive to apply because testing team have to create huge
+   environment to conduct this testing. During this test, testing team validates Speed of Processing. During this
+   performance testing, testing team conduct load testing and stress testing.
+
+
+   
