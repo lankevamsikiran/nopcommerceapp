@@ -60,6 +60,19 @@ driver.get("https://github.com/naveens33/python_tutorials")
 # links = driver.find_elements_by_css_selector("a")
 links = driver.find_elements(By.CSS_SELECTOR, "a")
 
+desired_cap = {
+ 'browser': 'Chrome',
+ 'browser_version': '88.0',
+ 'os': 'Windows',
+ 'os_version': '10',
+ 'name': 'BStack-[Python] Sample Test', # test name
+ 'build': 'BStack Build Number 1' # CI/CD job or build name
+}
+driver = webdriver.Remote(
+    command_executor='https://vamsikiran_le5ojK:y9cPyrj95jj9jfkJknxS@hub-cloud.browserstack.com/wd/hub',
+    desired_capabilities=desired_cap)
+
+
 for link in links:
     try:
         request = requests.head(link.get_attribute('href'), data={'key': 'value'})
@@ -77,3 +90,5 @@ for link in links:
 
 print("Detection of broken links completed with " + str(broken_links) + " broken links and " + str(
     valid_links) + " valid links")
+
+driver.quit()
