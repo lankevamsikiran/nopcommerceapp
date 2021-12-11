@@ -24,7 +24,7 @@ def jon(funct):
 @spl
 @deco
 def changetolow():
-    return "HELLO World VAMSI"
+    return "HELLO World VAMSI KIRAN"
 
 print(changetolow())
 
