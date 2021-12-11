@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="81571e7d-46c2-4bc8-9622-957de23e6f11" name="Default Changelist" comment="adding python questions file">
-      <change afterPath="$PROJECT_DIR$/python.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python programs/decorators.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python programs/decorators.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Selenium programs/initiatingBrowser.py" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium programs/initiatingBrowser.py" afterDir="false" />
-    </list>
+    <list default="true" id="81571e7d-46c2-4bc8-9622-957de23e6f11" name="Default Changelist" comment="adding files" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -239,7 +234,14 @@
       <option name="project" value="LOCAL" />
       <updated>1638098964236</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="adding files">
+      <created>1639244849456</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1639244849456</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -256,7 +258,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="adding python questions file" />
-    <option name="LAST_COMMIT_MESSAGE" value="adding python questions file" />
+    <MESSAGE value="adding files" />
+    <option name="LAST_COMMIT_MESSAGE" value="adding files" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
