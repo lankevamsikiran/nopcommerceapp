@@ -13,3 +13,14 @@ print(fibonacci_series(10))
 for i in fibonacci_series(10):
     print(i, end=" ")
 
+#Type 2
+
+a=0
+b=1
+
+num=int(input("enter num :"))
+
+while num>a:
+    print(a)
+    a, b = b, a + b
+

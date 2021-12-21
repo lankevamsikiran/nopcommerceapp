@@ -4,7 +4,29 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="81571e7d-46c2-4bc8-9622-957de23e6f11" name="Default Changelist" comment="adding files" />
+    <list default="true" id="81571e7d-46c2-4bc8-9622-957de23e6f11" name="Default Changelist" comment="adding files">
+      <change afterPath="$PROJECT_DIR$/Python programs/RE -- splitting string using numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python programs/RE matching words.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python programs/delpractice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python programs/mathoperations.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python programs/merging 2 dictionaries.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium programs/autosuggestions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium programs/links2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium programs/tags.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/companies/Wipro.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/companies/hcl.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python programs/Factorial.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python programs/Factorial.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python programs/count characters surrounding vowel.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python programs/count characters surrounding vowel.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python programs/decorators.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python programs/decorators.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python programs/execute string containing python code.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python programs/execute string containing python code.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python programs/fibonacci series.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python programs/fibonacci series.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python programs/reverse string.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python programs/reverse string.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium programs/checking links.py" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium programs/checking links.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium programs/initiatingBrowser.py" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium programs/initiatingBrowser.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/calculator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wipro.py" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +35,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="HTML File" />
         <option value="Python Script" />
       </list>
     </option>
@@ -36,35 +59,20 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.initiatingBrowser">
-    <configuration name="checking links" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\Users\Lenovo\AppData\Local\Programs\Python\Python38-32\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Selenium programs" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Selenium programs/checking links.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="decorators" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\pycharm practice\nopcommerceApp\companies" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.merging 2 dictionaries">
+    <configuration name="Factorial" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -76,7 +84,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python programs/decorators.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python programs/Factorial.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -85,19 +93,40 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="initiatingBrowser" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="delpractice" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="C:\Users\Lenovo\AppData\Local\Programs\Python\Python38-32\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Selenium programs" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python programs" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Selenium programs/initiatingBrowser.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python programs/delpractice.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="fibonacci series" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Lenovo\AppData\Local\Programs\Python\Python38-32\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python programs" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python programs/fibonacci series.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -127,19 +156,19 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="practice" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="merging 2 dictionaries" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="C:\Users\Lenovo\AppData\Local\Programs\Python\Python38-32\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python programs" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python programs/merging 2 dictionaries.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -148,19 +177,19 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="reverse string" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="C:\Users\Lenovo\AppData\Local\Programs\Python\Python38-32\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python programs" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python programs/reverse string.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -187,20 +216,20 @@
     </configuration>
     <list>
       <item itemvalue="Python.main" />
-      <item itemvalue="Python.checking links" />
-      <item itemvalue="Python.decorators" />
-      <item itemvalue="Python.test" />
+      <item itemvalue="Python.delpractice" />
+      <item itemvalue="Python.fibonacci series" />
+      <item itemvalue="Python.Factorial" />
       <item itemvalue="Python tests.pytest in bin" />
-      <item itemvalue="Python.practice" />
-      <item itemvalue="Python.initiatingBrowser" />
+      <item itemvalue="Python.reverse string" />
+      <item itemvalue="Python.merging 2 dictionaries" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.initiatingBrowser" />
-        <item itemvalue="Python.practice" />
-        <item itemvalue="Python.test" />
-        <item itemvalue="Python.decorators" />
-        <item itemvalue="Python.checking links" />
+        <item itemvalue="Python.merging 2 dictionaries" />
+        <item itemvalue="Python.reverse string" />
+        <item itemvalue="Python.Factorial" />
+        <item itemvalue="Python.delpractice" />
+        <item itemvalue="Python.fibonacci series" />
       </list>
     </recent_temporary>
   </component>
@@ -241,7 +270,14 @@
       <option name="project" value="LOCAL" />
       <updated>1639244849456</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="adding files">
+      <created>1639245238841</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1639245238841</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -264,16 +300,6 @@
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Python programs/count characters surrounding vowel.py</url>
-          <line>8</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Python programs/Factorial.py</url>
-          <line>22</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/Python programs/counter.py</url>
           <line>8</line>

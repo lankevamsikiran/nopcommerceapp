@@ -10,7 +10,7 @@ def deco(funct):
 def spl(funct):
     def splitt():
         b=funct()
-        s=b.split(" ")
+        s=b.split('\d+')
         return s
     return splitt
 

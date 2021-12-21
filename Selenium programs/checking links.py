@@ -56,7 +56,7 @@ urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 driver=webdriver.Chrome(ChromeDriverManager().install())
 driver.maximize_window()
 #driver.get('https://www.lambdatest.com/blog/')
-driver.get("https://github.com/naveens33/python_tutorials")
+driver.get("https://crontab.guru/")
 # links = driver.find_elements_by_css_selector("a")
 links = driver.find_elements(By.CSS_SELECTOR, "a")
 
@@ -81,6 +81,7 @@ for link in links:
             broken_links = (broken_links + 1)
         else:
             valid_links = (valid_links + 1)
+            print(link.text)
     except requests.exceptions.MissingSchema:
         print("Encountered MissingSchema Exception")
     except requests.exceptions.InvalidSchema:
@@ -92,3 +93,4 @@ print("Detection of broken links completed with " + str(broken_links) + " broken
     valid_links) + " valid links")
 
 driver.quit()
+

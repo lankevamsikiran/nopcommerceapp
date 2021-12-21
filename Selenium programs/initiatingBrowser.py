@@ -12,6 +12,7 @@ driver=webdriver.Chrome(ChromeDriverManager().install())
 driver.get("https://www.facebook.com/")
 
 driver.find_element_by_xpath("//button[@name='login']").click()
+driver.save_screenshot("google.jpg")
 
 print(driver.title)
 driver.close()
