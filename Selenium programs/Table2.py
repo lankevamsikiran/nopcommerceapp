@@ -1,13 +1,3 @@
-#
-# # number of elements
-# n = int(input("Enter number of elements : "))
-#
-# # Below line read inputs from user using map() function
-# a = list(map(int,input("\nEnter the numbers : ").strip().split()))[:n]
-#
-# print("\nList is - ", a)
-#
-#
 
 
 
@@ -39,12 +29,16 @@ def allitems():
 
 
 
+
 elements=len(driver.find_elements_by_xpath("//*[@id='example_paginate']/span/a"))
 print(elements)
 
 for i in range(1,elements+1):
     allitems()
     driver.find_element_by_xpath("//*[@id='example_next']").click()
+
+x=driver.find_element_by_xpath("//*[@id='example_next']").is_enabled()
+
 
 driver.quit()
 

@@ -5,27 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="81571e7d-46c2-4bc8-9622-957de23e6f11" name="Default Changelist" comment="adding files">
-      <change afterPath="$PROJECT_DIR$/Python programs/RE -- splitting string using numbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python programs/RE matching words.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python programs/delpractice.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python programs/mathoperations.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python programs/merging 2 dictionaries.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Selenium programs/autosuggestions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Selenium programs/links2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Selenium programs/tags.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/companies/Wipro.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/companies/hcl.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium programs/Table2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium programs/Tables.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python programs/Factorial.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python programs/Factorial.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python programs/count characters surrounding vowel.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python programs/count characters surrounding vowel.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python programs/decorators.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python programs/decorators.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python programs/execute string containing python code.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python programs/execute string containing python code.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python programs/fibonacci series.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python programs/fibonacci series.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python programs/reverse string.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python programs/reverse string.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Selenium programs/checking links.py" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium programs/checking links.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Selenium programs/initiatingBrowser.py" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium programs/initiatingBrowser.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/calculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/calculator.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wipro.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python programs/delpractice.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python programs/delpractice.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python programs/merging 2 dictionaries.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python programs/merging 2 dictionaries.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,20 +55,41 @@
       <recent name="F:\pycharm practice\nopcommerceApp\companies" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.merging 2 dictionaries">
-    <configuration name="Factorial" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Table2">
+    <configuration name="Table2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="C:\Users\Lenovo\AppData\Local\Programs\Python\Python38-32\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python programs" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Selenium programs" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python programs/Factorial.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Selenium programs/Table2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Tables" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Lenovo\AppData\Local\Programs\Python\Python38-32\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Selenium programs" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Selenium programs/Tables.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -106,27 +111,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python programs/delpractice.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="fibonacci series" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\Users\Lenovo\AppData\Local\Programs\Python\Python38-32\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python programs" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python programs/fibonacci series.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -217,19 +201,19 @@
     <list>
       <item itemvalue="Python.main" />
       <item itemvalue="Python.delpractice" />
-      <item itemvalue="Python.fibonacci series" />
-      <item itemvalue="Python.Factorial" />
-      <item itemvalue="Python tests.pytest in bin" />
       <item itemvalue="Python.reverse string" />
       <item itemvalue="Python.merging 2 dictionaries" />
+      <item itemvalue="Python tests.pytest in bin" />
+      <item itemvalue="Python.Tables" />
+      <item itemvalue="Python.Table2" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Table2" />
+        <item itemvalue="Python.delpractice" />
+        <item itemvalue="Python.Tables" />
         <item itemvalue="Python.merging 2 dictionaries" />
         <item itemvalue="Python.reverse string" />
-        <item itemvalue="Python.Factorial" />
-        <item itemvalue="Python.delpractice" />
-        <item itemvalue="Python.fibonacci series" />
       </list>
     </recent_temporary>
   </component>
