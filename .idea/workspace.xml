@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="81571e7d-46c2-4bc8-9622-957de23e6f11" name="Default Changelist" comment="adding files">
-      <change afterPath="$PROJECT_DIR$/Selenium programs/Date.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/certificateerrors.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/del.py" beforeDir="false" afterPath="$PROJECT_DIR$/del.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/del2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/companies/hcl.py" beforeDir="false" afterPath="$PROJECT_DIR$/companies/hcl.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +56,7 @@
       <recent name="F:\pycharm practice\nopcommerceApp\companies" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.del">
+  <component name="RunManager" selected="Python.Tables">
     <configuration name="Tables" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -143,19 +141,19 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="downloadfiles" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="hcl" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="C:\Users\Lenovo\AppData\Local\Programs\Python\Python38-32\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Selenium programs" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/companies" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Selenium programs/downloadfiles.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/companies/hcl.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -203,20 +201,20 @@
     </configuration>
     <list>
       <item itemvalue="Python.main" />
-      <item itemvalue="Python.downloadfiles" />
       <item itemvalue="Python tests.pytest in bin" />
-      <item itemvalue="Python.Tables" />
       <item itemvalue="Python.certificateerrors" />
       <item itemvalue="Python.certificateerrors (1)" />
       <item itemvalue="Python.del" />
+      <item itemvalue="Python.hcl" />
+      <item itemvalue="Python.Tables" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Tables" />
+        <item itemvalue="Python.hcl" />
         <item itemvalue="Python.del" />
         <item itemvalue="Python.certificateerrors (1)" />
         <item itemvalue="Python.certificateerrors" />
-        <item itemvalue="Python.downloadfiles" />
-        <item itemvalue="Python.Tables" />
       </list>
     </recent_temporary>
   </component>

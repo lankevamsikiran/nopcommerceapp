@@ -1,13 +1,4 @@
 
-# from selenium import webdriver
-#
-# from selenium.webdriver.support.ui import Select
-#
-# driver = webdriver.Chrome(executable_path="F:\pysel\chromedriver")
-#
-# #driver.get("http://the-internet.herokuapp.com/inputs")
-#
-# driver.get("http://the-internet.herokuapp.com/dropdown")
 # l1=[1,2,3,4,5]
 # total=0
 # rev=[]
