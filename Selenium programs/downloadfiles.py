@@ -3,10 +3,10 @@ from selenium import webdriver
 from webdriver_manager.chrome import ChromeDriverManager
 import time
 
-options=webdriver.ChromeOptions()
-prefs={"download.default_directory":"F:\pysel"}
-options.add_experimental_option("prefs",prefs)
-driver=webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+options = webdriver.ChromeOptions()
+prefs = {"download.default_directory" : "F:\pysel"}
+options.add_experimental_option("prefs", prefs)
+driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
 driver.get("https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm")
 driver.implicitly_wait(10)
 driver.find_element_by_xpath("//*[@id='searchterm']").send_keys("211188")
