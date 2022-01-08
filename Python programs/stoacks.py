@@ -1,4 +1,5 @@
 
+
 def solution(A):
     # write your code in Python 3.6
     profit = 0
@@ -20,9 +21,4 @@ def solution(A):
 
 A=[5, 1, 3, 2,90]
 print(solution(A))
-
-
-
-
-
 

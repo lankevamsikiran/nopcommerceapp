@@ -18,5 +18,5 @@ print(Counter(d))
 """
 COUNTER will give output as a dictionary.
 we can use SET also but it will give value as 1 for all keys.
-we can use dictionary also but it will give the same as output"""
-
+we can use dictionary also but it will give the same as output 
+"""
