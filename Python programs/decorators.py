@@ -1,5 +1,4 @@
 
-
 def deco(funct):
     def low():
         a=funct()

@@ -6,7 +6,6 @@ driver=webdriver.Chrome(ChromeDriverManager().install())
 driver.get("http://demo.guru99.com/test/web-table-element.php")
 
 
-
 rows=len(driver.find_elements_by_xpath("//*[@id='leftcontainer']/table/tbody/tr"))
 cols=len(driver.find_elements_by_xpath("//*[@id='leftcontainer']/table/tbody/tr[1]/td"))
 
