@@ -21,6 +21,7 @@ b=1
 num=int(input("enter num :"))
 
 while num>a:
-    print(a)
+    print(a, end=" ")
     a, b = b, a + b
+
 

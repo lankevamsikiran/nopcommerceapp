@@ -1,3 +1,4 @@
+
 """
 
 Deque (Doubly Ended Queue) in Python is implemented using the module “collections“.

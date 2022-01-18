@@ -13,7 +13,20 @@ driver.find_element_by_xpath("//*[@id='butAgree']").click()
 a=driver.find_elements_by_xpath("//*[@id='ctl00_cph1_dtlDateList']/tbody/tr")
 
 
-#elements=driver.find_element_by_xpath("//*[@id='ctl00_cph1_dtlDateList']/tbody/tr[2]/td")
 
-print(len(a))
+for i in range(1,len(a)):
+    print(a[i].text)
+    elements = driver.find_elements_by_xpath("//*[@id='ctl00_cph1_dtlDateList']/tbody/tr["+str(i+1)+"]/td")
+
+    for j in range(1,len(elements)):
+        pages=driver.find_element_by_xpath("//*[@id='ctl00_cph1_dtlDateList']/tbody/tr["+str(i+1)+"]/td["+str(j)+"]")
+        pages.click()
+
+        table=driver.find_elements_by_xpath("// *[ @ id = 'ctl00_cph1_grdAwardSearch'] / tbody / tr")
+        print(len(table))
+        driver.implicitly_wait(10)
+        driver.back()
+        #driver.get("https://www.dibbs.bsm.dla.mil//awards/awddates.aspx?category=awddt")
+
+
 

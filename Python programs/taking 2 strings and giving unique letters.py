@@ -2,9 +2,6 @@
 str1=input("enter str1:  ")
 str2=input("enter str2:  ")
 
-#print(str1)
-#print(str2)
-
 op1=""
 op2=""
 for i in str1:

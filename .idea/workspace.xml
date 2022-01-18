@@ -5,8 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="81571e7d-46c2-4bc8-9622-957de23e6f11" name="Default Changelist" comment="adding files">
-      <change afterPath="$PROJECT_DIR$/Python programs/unique pairs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python programs/dictionary from single list by deviding numbers and letters.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python programs/reverse words in a sentences.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python programs/RE -- splitting string using numbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python programs/RE -- splitting string using numbers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python programs/collections or counter 2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python programs/collections or counter 2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python programs/deque.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python programs/deque.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python programs/fibonacci series.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python programs/fibonacci series.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python programs/max value in list.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python programs/max value in list.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python programs/second largest number in list.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python programs/second largest number in list.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python programs/taking 2 strings and giving unique letters.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python programs/taking 2 strings and giving unique letters.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium programs/Head.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium programs/getting data to excel sheet.py" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium programs/getting data to excel sheet.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/companies/hcl.py" beforeDir="false" afterPath="$PROJECT_DIR$/companies/hcl.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,20 +67,41 @@
       <recent name="F:\pycharm practice\nopcommerceApp\companies" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.unique pairs">
-    <configuration name="getting data to excel sheet" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.reverse words in a sentences">
+    <configuration name="collections or counter" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="C:\Users\Lenovo\AppData\Local\Programs\Python\Python38-32\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Selenium programs" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python programs" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Selenium programs/getting data to excel sheet.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python programs/collections or counter.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="dictionary from single list by deviding numbers and letters" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Lenovo\AppData\Local\Programs\Python\Python38-32\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python programs" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python programs/dictionary from single list by deviding numbers and letters.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -98,27 +131,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="initiatingBrowser" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\Users\Lenovo\AppData\Local\Programs\Python\Python38-32\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Selenium programs" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Selenium programs/initiatingBrowser.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="nopcommerceApp" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -140,7 +152,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="taking 2 strings and giving unique letters" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="reverse words in a sentences" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -152,7 +164,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python programs/taking 2 strings and giving unique letters.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python programs/reverse words in a sentences.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -161,19 +173,19 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="unique pairs" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="C:\Users\Lenovo\AppData\Local\Programs\Python\Python38-32\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python programs" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python programs/unique pairs.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -200,20 +212,20 @@
     </configuration>
     <list>
       <item itemvalue="Python.main" />
-      <item itemvalue="Python.initiatingBrowser" />
-      <item itemvalue="Python.headless browser" />
       <item itemvalue="Python tests.pytest in bin" />
-      <item itemvalue="Python.getting data to excel sheet" />
-      <item itemvalue="Python.taking 2 strings and giving unique letters" />
-      <item itemvalue="Python.unique pairs" />
+      <item itemvalue="Python.test" />
+      <item itemvalue="Python.collections or counter" />
+      <item itemvalue="Python.headless browser" />
+      <item itemvalue="Python.dictionary from single list by deviding numbers and letters" />
+      <item itemvalue="Python.reverse words in a sentences" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.unique pairs" />
-        <item itemvalue="Python.taking 2 strings and giving unique letters" />
-        <item itemvalue="Python.getting data to excel sheet" />
+        <item itemvalue="Python.reverse words in a sentences" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.dictionary from single list by deviding numbers and letters" />
         <item itemvalue="Python.headless browser" />
-        <item itemvalue="Python.initiatingBrowser" />
+        <item itemvalue="Python.collections or counter" />
       </list>
     </recent_temporary>
   </component>
